@@ -12,4 +12,3 @@ This project reads acceptance criteria → extracts requirements → generates t
 - Works with any LLM (Gemini, GPT-4o, Claude, etc.)
 - Fully modular codebase
 
-## 📂 Project Structure
